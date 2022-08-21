@@ -14,7 +14,7 @@
 
 - *🎯 Focused on `DSA` these days.*
 - *💬 Interested in `Java, Android Development, DSA`.*
-- *📫 You can shoot me at ***kaustubhrathod008@gmail.com***
+- *📫 You can shoot me at ***kaustubhrathod008@gmail.com*
 
 
 </br>
