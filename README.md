@@ -1,4 +1,4 @@
-### ***नमस्ते (Namaste) 🙏🏻, I'm Vedant Yetekar***
+### ***नमस्ते (Namaste) 🙏🏻, I'm Kaustubh Rathod***
 </br>
 
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
@@ -13,11 +13,10 @@
 #### ***Know me 😄***
 
 - *🧑🏻‍💻 I’m currently working on an [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)*
-- *🎯 Focused on `Node.Js` these days.*
-- *📜 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)*
-- *💬 Interested in `JavaScript, React.Js, Node.Js, C++, DSA`.*
-- *🌏 Visit my [`Dev-folio here.`](https://vedantyetekar.netlify.app/)*
-- *📫 You can shoot me at ***ursvedantyetekar@gmail.com***.*
+- *🎯 Focused on `DSA` these days.*
+- *💬 Interested in `Java, Android Development, DSA`.*
+//- *🌏 Visit my [`Dev-folio here.`](https://vedantyetekar.netlify.app/)*
+- *📫 You can shoot me at ***kaustubhrathod008@g***.*
 
 
 </br>
@@ -69,7 +68,7 @@
 
 #### ***📬 Lets connect***
 <p align="left"> 
-<a href="https://www.linkedin.com/in/vedant-yetekar-497949218"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/kaustubh-rathod-1kvr8"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=vedantyetekar7.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fvedantyetekar7.github.io" alt="vedantyetekar7.github.io" /></a>&nbsp
    <a href="mailto:ursvedantyetekar@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ursvedantyetekar@gmail.com" />
