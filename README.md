@@ -12,11 +12,10 @@
 
 #### ***Know me 😄***
 
-- *🧑🏻‍💻 I’m currently working on an [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)*
 - *🎯 Focused on `DSA` these days.*
 - *💬 Interested in `Java, Android Development, DSA`.*
-//- *🌏 Visit my [`Dev-folio here.`](https://vedantyetekar.netlify.app/)*
-- *📫 You can shoot me at ***kaustubhrathod008@g***.*
+<!-- //- *🌏 Visit my [`Dev-folio here.`](https://vedantyetekar.netlify.app/)* -->
+- *📫 You can shoot me at ***kaustubhrathod008@gmail.com***
 
 
 </br>
@@ -69,9 +68,8 @@
 #### ***📬 Lets connect***
 <p align="left"> 
 <a href="https://www.linkedin.com/in/kaustubh-rathod-1kvr8"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=vedantyetekar7.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fvedantyetekar7.github.io" alt="vedantyetekar7.github.io" /></a>&nbsp
-   <a href="mailto:ursvedantyetekar@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ursvedantyetekar@gmail.com" />
+   <a href="mailto:kaustubhrathod008@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaustubhrathod008@gmail.com" />
   </a>
 </p>
 
@@ -82,6 +80,6 @@
 #### ***📉 Stats***
            
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaustubh-rathod-08&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-rathod-08&show_icons=true&theme=dark" />
 </div>
