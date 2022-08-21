@@ -14,7 +14,6 @@
 
 - *🎯 Focused on `DSA` these days.*
 - *💬 Interested in `Java, Android Development, DSA`.*
-<!-- //- *🌏 Visit my [`Dev-folio here.`](https://vedantyetekar.netlify.app/)* -->
 - *📫 You can shoot me at ***kaustubhrathod008@gmail.com***
 
 
@@ -67,7 +66,7 @@
 
 #### ***📬 Lets connect***
 <p align="left"> 
-<a href="https://www.linkedin.com/in/kaustubh-rathod-1kvr8"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/kaustubh-rathod-1kvr8"><img src="https://img.shields.io/badge/-Kaustubh%20Rathod-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
    <a href="mailto:kaustubhrathod008@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaustubhrathod008@gmail.com" />
   </a>
